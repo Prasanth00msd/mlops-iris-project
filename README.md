@@ -60,3 +60,6 @@ POST /predict
   "petal_width": 0.2
 }
 ```
+##  API Screenshot
+
+![Swagger UI](swagger-ui.png)
